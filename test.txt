@@ -1,2 +1,4 @@
 Hi,
 this is a git commit test.
+
+This was added in a custom branch! (SamzBranch)
